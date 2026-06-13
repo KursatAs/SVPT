@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+blender_version_min = "5.0.0"
+id = "svpt"
+license = ["SPDX:GPL-3.0-or-later", ]
+maintainer = "Kürşat ASLAN"
+name = "SVPT"
+tagline = ""
+type = "add-on"
+version = "1.0.0"
+tags = ["3D View", "Camera", "Object", "Sculpt"]
