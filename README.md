@@ -208,6 +208,4 @@ When using the camera backend, SVPT creates a temporary camera object if one doe
 | `constants.py` | Zoom limits and speed multipliers |
 | `blender_manifest.toml` | Blender extension manifest |
 
-## License
-
-GPL-3.0-or-later
+## [License](LICENSE)
